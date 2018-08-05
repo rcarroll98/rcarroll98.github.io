@@ -6,6 +6,7 @@
 
 .container {
     max-width: 960px;
+    background-color: #b5e7a0;
 }
 
 p {
@@ -22,3 +23,11 @@ img {
     width: 100%;
 }
 
+body{
+    background-color: #b5e7a0;
+}
+
+
+.jumbotron{
+    background-color: #b5e7a0;
+}
