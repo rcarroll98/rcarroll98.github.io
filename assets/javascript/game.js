@@ -23,12 +23,7 @@ var guessNumber = 12;
 
 var output = [];
 
-var imageArray = [
-    "assets/images/javascript.jpg",
-    "assets/images/css.jpg",
-    "assets/images/bootstrap.jpg",
-    "assets/images/jquery.jpg"
-];
+
 
 var imageWin = document.getElementById("image-win"); 
 
