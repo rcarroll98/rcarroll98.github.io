@@ -17,3 +17,8 @@ $("#recent-projects-wordguess").mouseover(function(){
 
 });
 
+$("#recent-projects-liri").on("click", function(){
+    
+    window.open("https://github.com/rcarroll98/liri-bot")
+});
+
